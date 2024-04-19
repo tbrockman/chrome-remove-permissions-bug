@@ -1,0 +1,7 @@
+# Steps to reproduce
+
+1. Load the extension unpacked
+2. Click "Add Permission" in the popup (and grant the permissions)
+3. Verify that permission is added (under `Site access` in extension details)
+4. Click "Remove Permission" in the popup
+5. See that the permission hasn't been removed (still listed under `Site access` in extension details) despite the call to remove permissions being successful
