@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "remove-permissions-unexpected-ex",
+    "name": "remove-permissions-bug",
     "version": "1.0",
-    "description": "testing remove permissions",
+    "description": "extension to reproduce what seems to be a bug",
     "icons": {},
     "permissions": [
         "tabs"
